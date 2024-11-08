@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working on a Synology Search Client<br>🍂 For my job I am learning the Spring & Angular framework at the moment<br>⚡️ Fun fact: I am also into photography, checkout my insta: @Lazerjoinside
+🔭 I am currently working on a Synology Search Client<br>🍂 For my job I am learning the Spring & Angular framework at the moment<br>👨‍🎓 I am currently a student of the DHBW Stuttgart Campus Horb and study Computer Science (Informatik)<br>⚡️ Fun fact: I am also into photography, checkout my insta: @Lazerjoinside
 
 
 ## 🌐 Socials:
