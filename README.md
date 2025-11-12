@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🔭 I am currently working on a DHBW Horb Application for every Plattform<br>🍂 For my job I am using Spring Boot & Angular framework and at university I am learning C# and .NET<br>👨‍🎓 I am currently a student of the DHBW Stuttgart Campus Horb and study Computer Science (Informatik)<br>⚡️ Fun fact: I am also into photography, checkout my insta: @Lazerjoinside
+<br>🔭 I am currently working on a DHBW Horb Application for every Plattform<br>🍂 For my job I am using Spring Boot & Angular framework and at university I am learning C# and .NET<br>👨‍🎓 I am currently a student of the DHBW Stuttgart Campus Horb and study Computer Science (Informatik)<br>⚡️ Fun fact: I am also into photography, check out my insta: @Lazerjoinside
 
 
 ## 🌐 Socials:
